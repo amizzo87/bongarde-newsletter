@@ -1,0 +1,11 @@
+.ohsi-sendgrid-widget label {
+    display: block;
+}
+
+.ohsi-sendgrid-widget input {
+    margin: 3px 0;
+}
+
+.ohsi-sendgrid-widget .text-danger {
+    color: #9B0712;
+}
